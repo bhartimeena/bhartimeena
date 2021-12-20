@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/meenabharti8" target="blank"><img src="https://img.shields.io/twitter/follow/meenabharti8?logo=twitter&style=for-the-badge" alt="meenabharti8" /></a> </p>
 
-- 🌱 I’m currently learning **Everything**
-
+- 🌱 I’m currently learning **Everything .**
+- 👯 Looking to contribute in **open source web projects .**
 - 📫 How to reach me **bhartim924@gmail.com**
 
-- ⚡ Fun fact **Even I don't know**
+- ⚡ Fun fact **Even I don't know!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
