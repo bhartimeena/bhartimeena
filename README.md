@@ -1,9 +1,14 @@
+<!--
+**bhartimeena/bhartimeena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+
 <h1 align="center">Hi 👋, I'm Bharti Meena</h1>
 <h3 align="center">A Girl Trying To Explore this world.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhartimeena&label=Profile%20views&color=0e75b6&style=flat" alt="bhartimeena" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhartimeena&label=Profile%20views&color=0e75b6&style=flat" alt="bhartimeena" /> </p> -->
 
-<p align="left"> <a href="https://twitter.com/meenabharti8" target="blank"><img src="https://img.shields.io/twitter/follow/meenabharti8?logo=twitter&style=for-the-badge" alt="meenabharti8" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/meenabharti8" target="blank"><img src="https://img.shields.io/twitter/follow/meenabharti8?logo=twitter&style=for-the-badge" alt="meenabharti8" /></a> </p> -->
 
 - 🌱 I’m currently learning **Everything .**
 - 👯 Looking to contribute in **open source web projects .**
